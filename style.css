@@ -19,6 +19,7 @@ p {
   font-size: 1em;
   font-weight: 300;
   color: #EFEFEF;
+  margin-bottom: 30px;
 }
 
 a {
@@ -39,6 +40,18 @@ i {
 
 i:hover {
   color: #FFC069;
+}
+
+.btn-orange {
+  background-color: #FFC069;
+  color:#4A403A;
+  padding: 10px 10px;
+  border-radius: 4px;
+}
+
+.btn-orange:hover {
+  background-color: #fcd6a1;
+  color:#4A403A
 }
 
 .list-inline {
